@@ -10,3 +10,8 @@ Projects developed during the **Business Intelligence Analyst Bootcamp at Triple
 | 4 | Saving SuperStore | The project task was to analyze SuperStore performance data to identify profit and loss drivers, advertising impact, and return-related issues. |
 | 5 | Returned Orders at the SuperStore | Built an interactive dashboard to analyze return patterns at SuperStore and identify root causes behind high return rates across different periods of the year |
 
+## Tools & Skills
+- SQL (joins, aggregations, business analysis)
+- Tableau (dashboards, storytelling, diagnostics)
+- Google Sheets (analysis, metrics, reporting)
+- Business Intelligence & data-driven decision making
